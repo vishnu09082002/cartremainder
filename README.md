@@ -36,7 +36,7 @@ This helps improve user experience and potentially boosts conversion rates for e
 
 ### 🚀 Demo (Deployed on Vercel)
 
-🔗 Live Demo: [Add your Vercel link here]  
+🔗 Live Demo: https://cartremainder.vercel.app/
 💻 Source Code: [https://github.com/vishnu09082002/cartremainder](https://github.com/vishnu09082002/cartremainder)
 
 ---
